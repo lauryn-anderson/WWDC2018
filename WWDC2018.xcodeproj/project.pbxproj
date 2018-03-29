@@ -6,10 +6,17 @@
 	objectVersion = 48;
 	objects = {
 
+/* Begin PBXFileReference section */
+		14327D97206D595A00872331 /* BlankIt.playgroundbook */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = BlankIt.playgroundbook; sourceTree = "<group>"; };
+		1452BC3A20715B9A0081979F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		14327D8F206D592F00872331 = {
 			isa = PBXGroup;
 			children = (
+				1452BC3A20715B9A0081979F /* README.md */,
+				14327D97206D595A00872331 /* BlankIt.playgroundbook */,
 			);
 			sourceTree = "<group>";
 		};
@@ -19,6 +26,7 @@
 		14327D90206D592F00872331 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0920;
 				LastUpgradeCheck = 0920;
 			};
 			buildConfigurationList = 14327D93206D592F00872331 /* Build configuration list for PBXProject "WWDC2018" */;
@@ -27,8 +35,10 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 14327D8F206D592F00872331;
+			productRefGroup = 14327D8F206D592F00872331;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (

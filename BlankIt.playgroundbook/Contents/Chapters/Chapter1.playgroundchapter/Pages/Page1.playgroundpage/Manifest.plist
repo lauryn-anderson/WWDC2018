@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>CodeCopySetup</key>
+	<dict>
+		<key>CopyCommandButtonTitle</key>
+		<string>Copy Command</string>
+		<key>DefaultCommandButtonTitle</key>
+		<string>Use Command</string>
+		<key>NavigateCommandButtonTitle</key>
+		<string>Navigate</string>
+		<key>NotReadyToCopyInstructions</key>
+		<string>Go back and adjust</string>
+		<key>ReadyToCopyInstructions</key>
+		<string>Go ahead and copy</string>
+	</dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Welcome to Blank It!</string>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+</dict>
+</plist>
