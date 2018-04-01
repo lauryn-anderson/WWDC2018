@@ -1,7 +1,8 @@
 # WWDC 2018: Playgroundbook
 
 Lauryn Anderson
-Blank It – Fill-in-the-blank game generator
+
+**Blank It** – Fill-in-the-blank game generator
 
 ## Requirements 
 

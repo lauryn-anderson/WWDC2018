@@ -14,7 +14,7 @@
  
  `processor.identifyPartsOfSpeech(text: String)`
  
- replacing the word `String` with the word `text`:
+ replacing the word `String` with the word `text`
 */
 //#-hidden-code
 

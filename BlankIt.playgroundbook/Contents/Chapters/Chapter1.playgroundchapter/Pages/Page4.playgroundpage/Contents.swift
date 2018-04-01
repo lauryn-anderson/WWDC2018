@@ -4,7 +4,7 @@
  
  This time, you can take a look at the code we are using, but your real job is to supply the replacements! (Better yet, quiz the people around you for even more random replacements!)
  
- > And just in case you didn't memorize these terms on the last page, here's a repeat! Noun = thing (dog, cake, bathtub) Plural noun = more than one thing (dogs, cakes, bathtubs) Adjective = describing word (fluffy, green, evil) Adverb = describing word that applies to verbs (quickly, violently, unknowingly). 
+ > And just in case you didn't memorize these terms on the last page, here's a repeat! Noun = thing (dog, cake, bathtub) Plural noun = more than one thing (dogs, cakes, bathtubs) Adjective = describing word (fluffy, green, evil) Adverb = describing word that applies to actions (quickly, violently, unknowingly).
  */
 //#-hidden-code
 import PlaygroundSupport
@@ -33,7 +33,7 @@ let blanks = processor.pickBlanksReturnOnlyBlanks(adjectiveRatio: adjectiveRatio
 //#-editable-code
 var newWords = [String]()
 /*:
- We just created the array to fill with replacement code. The code below decides 
+ We just created the array to fill with replacement code. The code below decides what we should ask the user.
 */
 for word in blanks {
     var prompt = ""

@@ -55,6 +55,6 @@ let newText = /*#-editable-code*//*#-end-editable-code*/
 show("Here is your new-and-improved paragraph!")
 show(newText)
 //#-hidden-code
-PlaygroundPage.current.assessmentStatus = .pass(message: "### You did it! \nDid you like your result? Try going back to the first page and repeating with a new paragraph! \n\n[**Back to First Page**](@first)")
+PlaygroundPage.current.assessmentStatus = .pass(message: "### You did it! 🎉 \nDid you like your result? Try going back to the first page and repeating with a new paragraph! \n\n[**Back to First Page**](@first)")
 // does @first work?
 //#-end-hidden-code
