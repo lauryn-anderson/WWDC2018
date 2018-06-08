@@ -2,7 +2,7 @@
  ## Great. Now we have a bunch of holes in the paragraph.
  Don't worry, we're doing great! Now that we've completed that behind-the-scenes stuff, we are going back to the user to get replacement words for the blanks.
  
- This time, you can take a look at the code we are using, but your real job is to supply the replacements! (Better yet, quiz the people around you for even more random replacements!)
+ This time, you can take a look at the code we are using, but your [real]() job is to supply the replacements! (Better yet, quiz the people around you for even more random replacements!)
  
  > And just in case you didn't memorize these terms on the last page, here's a repeat! Noun = thing (dog, cake, bathtub) Plural noun = more than one thing (dogs, cakes, bathtubs) Adjective = describing word (fluffy, green, evil) Adverb = describing word that applies to actions (quickly, violently, unknowingly).
  */

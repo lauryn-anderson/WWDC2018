@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		14327D97206D595A00872331 /* BlankIt.playgroundbook */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = BlankIt.playgroundbook; sourceTree = "<group>"; };
 		1452BC3A20715B9A0081979F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		14BF93EC20CB2925000398D3 /* Glossary.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Glossary.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -17,6 +18,7 @@
 			children = (
 				1452BC3A20715B9A0081979F /* README.md */,
 				14327D97206D595A00872331 /* BlankIt.playgroundbook */,
+				14BF93EC20CB2925000398D3 /* Glossary.plist */,
 			);
 			sourceTree = "<group>";
 		};
