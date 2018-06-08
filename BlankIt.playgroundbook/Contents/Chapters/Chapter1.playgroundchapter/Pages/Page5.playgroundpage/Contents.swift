@@ -6,7 +6,7 @@
  
  `processor.createNewParagraph(newWords: [String])`
  
- will do some [final]() formatting and give you a paragraph with all the blanks replaced. Some of these paragraphs can be pretty hilarious!
+ will do some [final](glossary://cycloid) formatting and give you a paragraph with all the blanks replaced. Some of these paragraphs can be pretty hilarious!
  
  Call the function
  
